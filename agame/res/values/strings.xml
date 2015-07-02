@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, WoodyDaPeckerActivity!</string>
+    <string name="app_name">Save the UFO</string>
+<string name="facebook_app_id">"1464520480480466"</string>
+</resources>
